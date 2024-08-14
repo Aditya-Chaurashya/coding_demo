@@ -2,4 +2,4 @@
 
 This is my first Git Repository.
 <br>
-Author - Aditya chaurashiya (sliet colllege)
+Author - Chotu-kun (sliet colllege)
